@@ -9,6 +9,3 @@
 
 
 
-
-[Uploading image.png…]()
-
